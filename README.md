@@ -92,6 +92,8 @@ python app.py
 ```
 
 3. Open the Gradio interface in your browser. Upload a black-and-white image and get the colorized output instantly.
+
+
 ![image](https://github.com/user-attachments/assets/aa83ce07-a93f-443b-89c7-1b5fa379e043)
 
 ## Example
